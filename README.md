@@ -2,7 +2,7 @@ SPSGP-65269-Virtual-Internship---Android-Application-Development-Using-Kotlin
 ==================================
 Virtual Internship - Android Application Development Using Kotlin by SmartBridge
 
-Name: [shubham](https://github.com/noobshubham)
+Name: [Nallapalli Mahitha Jackqualine](https://github.com/noobnallapalli mahitha jackqualine)
 ------------
 
 All Android Projects Module Wise
